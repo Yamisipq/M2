@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de5ba76f-21c4-45e6-92da-acc223294136" name="Changes" comment="Ejercicio 6,7,8,9">
-      <change afterPath="$PROJECT_DIR$/10.Transposicion_matriz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.Validar_cc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.Lanzar_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.Aventura.py" afterDir="false" />
+    <list default="true" id="de5ba76f-21c4-45e6-92da-acc223294136" name="Changes" comment="Ejercicio 10,11,12,13">
+      <change afterPath="$PROJECT_DIR$/14.Ahorcado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Naval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.Transposicion_matriz.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Transposicion_matriz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.Lanzar_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.Lanzar_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.Aventura.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.Aventura.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +51,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.Sis_Cine.executor": "Run",
-    "Python.10.Transposicion_matriz.executor": "Debug",
+    "Python.10.Transposicion_matriz.executor": "Run",
     "Python.11.Validar_cc.executor": "Debug",
     "Python.12.Lanzar_dados.executor": "Run",
     "Python.13.Aventura.executor": "Run",
+    "Python.14.Ahorcado.executor": "Run",
+    "Python.15.Naval.executor": "Run",
     "Python.2.Comandos_simple.executor": "Run",
     "Python.3.Val_contra.executor": "Run",
     "Python.4.Rock_paper-sccisors.executor": "Run",
@@ -76,7 +79,7 @@
       <recent name="C:\Users\adso2\Desktop\T3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13.Aventura">
+  <component name="RunManager" selected="Python.15.Naval">
     <configuration name="10.Transposicion_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="T3" />
       <option name="ENV_FILES" value="" />
@@ -91,28 +94,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.Transposicion_matriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.Validar_cc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="T3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.Validar_cc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.Transformacion_datos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14.Ahorcado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="T3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +159,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.Transformacion_datos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.Ahorcado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15.Naval" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="T3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.Naval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15.Naval" />
+        <item itemvalue="Python.10.Transposicion_matriz" />
+        <item itemvalue="Python.14.Ahorcado" />
         <item itemvalue="Python.13.Aventura" />
         <item itemvalue="Python.12.Lanzar_dados" />
-        <item itemvalue="Python.11.Validar_cc" />
-        <item itemvalue="Python.10.Transposicion_matriz" />
-        <item itemvalue="Python.9.Transformacion_datos" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756394914725</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 10,11,12,13">
+      <option name="closed" value="true" />
+      <created>1756398522772</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756398522772</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +272,7 @@
     <MESSAGE value="Ejercicio 3: Validador de contraseñas" />
     <MESSAGE value="Ejercicio 4,5,6" />
     <MESSAGE value="Ejercicio 6,7,8,9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 6,7,8,9" />
+    <MESSAGE value="Ejercicio 10,11,12,13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 10,11,12,13" />
   </component>
 </project>

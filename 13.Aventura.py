@@ -27,7 +27,6 @@ def aventura():
         else:
             print("Opción no válida. Intenta de nuevo.")
 
-        # Si el jugador elige 's' para jugar de nuevo, el ciclo continuará, de lo contrario, terminará.
         if continuar.lower() != 's':
             break
 
