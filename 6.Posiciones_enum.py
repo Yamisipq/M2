@@ -17,8 +17,8 @@ def encontrar_indices(frase, letra):
     return indices
 
 # Ejemplo de uso:
-frase = input("Introduce una frase: ")
-letra = input("Introduce una letra: ")
+frase = input("Introduce una frase: ").lower()
+letra = input("Introduce una letra: ").lower()
 posiciones = encontrar_indices(frase, letra)
 print(f"Los índices de la letra '{letra}' en la frase '{frase}' son: {posiciones}")
 
