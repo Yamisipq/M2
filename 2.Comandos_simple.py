@@ -2,10 +2,6 @@ def interprete():
     """
     Función que interpreta comandos simples del usuario.
     :arg:
-    x=int: Opción seleccionada por el usuario (1, 2, o 3).
-    1: Guardar
-    2: Cargar
-    3: Salir
     :return:
     case 1: Imprime "Guardando..."
     case 2: Imprime "Cargando..."
