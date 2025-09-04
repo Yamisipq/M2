@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de5ba76f-21c4-45e6-92da-acc223294136" name="Changes" comment="Ejercicio 10,11,12,13">
-      <change afterPath="$PROJECT_DIR$/14.Ahorcado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.Naval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Transposicion_matriz.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.Transposicion_matriz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.Lanzar_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.Lanzar_dados.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.Aventura.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.Aventura.py" afterDir="false" />
-    </list>
+    <list default="true" id="de5ba76f-21c4-45e6-92da-acc223294136" name="Changes" comment="Ejercicio 14,15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,33 +40,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.Sis_Cine.executor": "Run",
-    "Python.10.Transposicion_matriz.executor": "Run",
-    "Python.11.Validar_cc.executor": "Debug",
-    "Python.12.Lanzar_dados.executor": "Run",
-    "Python.13.Aventura.executor": "Run",
-    "Python.14.Ahorcado.executor": "Run",
-    "Python.15.Naval.executor": "Run",
-    "Python.2.Comandos_simple.executor": "Run",
-    "Python.3.Val_contra.executor": "Run",
-    "Python.4.Rock_paper-sccisors.executor": "Run",
-    "Python.5.Clasificador_num.executor": "Run",
-    "Python.6.Posiciones_enum.executor": "Run",
-    "Python.7.Combinador de listas con zip.executor": "Run",
-    "Python.7.Combinador_de_listas_con_zip (1).executor": "Run",
-    "Python.7.Combinador_de_listas_con_zip.executor": "Run",
-    "Python.8.Filtrado_datos.executor": "Run",
-    "Python.9.Transformacion_datos.executor": "Run",
-    "Python.Sis_Cine.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/adso2/Desktop/T3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.Sis_Cine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.Transposicion_matriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.Validar_cc.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.12.Lanzar_dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.Aventura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.Ahorcado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.Naval.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.Comandos_simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.Val_contra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.Rock_paper-sccisors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.Clasificador_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.Posiciones_enum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.Combinador de listas con zip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.Combinador_de_listas_con_zip (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.Combinador_de_listas_con_zip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.Filtrado_datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.Transformacion_datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sis_Cine.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adso2/Desktop/T3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\adso2\Desktop\T3" />
@@ -263,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756398522772</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio 14,15">
+      <option name="closed" value="true" />
+      <created>1756400479026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756400479026</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +274,7 @@
     <MESSAGE value="Ejercicio 4,5,6" />
     <MESSAGE value="Ejercicio 6,7,8,9" />
     <MESSAGE value="Ejercicio 10,11,12,13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 10,11,12,13" />
+    <MESSAGE value="Ejercicio 14,15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 14,15" />
   </component>
 </project>
