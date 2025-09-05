@@ -1,5 +1,11 @@
 import random
 def ahorcado():
+    """Juego del Ahorcado donde el jugador debe adivinar una palabra letra por letra.
+    :arg:
+    palabras (list): Lista de palabras posibles.
+    palabra (str): Palabra seleccionada aleatoriamente.
+    :return
+    Mensaje indicando si el jugador ganó o perdió."""
 
     palabras = ['python', 'java', 'kotlin', 'javascript']
     palabra = random.choice(palabras)
