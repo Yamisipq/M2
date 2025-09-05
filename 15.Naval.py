@@ -1,15 +1,18 @@
 import random
 
 def crear_tablero():
+    """Crea un tablero de 5x5 lleno de '~' que representa agua."""
     return [["~"] * 5 for _ in range(5)]
 
 def imprimir_tablero(tablero):
+    """Imprime el tablero."""
     print("  1 2 3 4 5")
     letras = "ABCDE"
     for i, fila in enumerate(tablero):
         print(letras[i], " ".join(fila))
 
 def posicionar_barco():
+    """Posiciona un barco de 3 celdas en el tablero de forma aleatoria."""
     orientacion = random.choice(["H", "V"])  # Horizontal o Vertical
     fila_columna = random.randint(0, 4)
     inicio = random.randint(0, 2)  # Asegura que el barco de 3 celdas encaje
@@ -25,6 +28,7 @@ def posicionar_barco():
     return posiciones
 
 def convertir_coordenada(coord):
+    """Convierte una coordenada tipo 'A3' a índices de lista (fila, columna)."""
     letras = "ABCDE"
     if len(coord) != 2:
         return None
@@ -39,6 +43,7 @@ def convertir_coordenada(coord):
     return (fila, columna)
 
 def jugar():
+    """Función principal para jugar al juego de Batalla Naval."""
     tablero = crear_tablero()
     barco = posicionar_barco()
     disparos = []
